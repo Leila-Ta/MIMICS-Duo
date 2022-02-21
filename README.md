@@ -1,1 +1,1 @@
-# MIMICS-Dou
+# MIMICS-Duo
