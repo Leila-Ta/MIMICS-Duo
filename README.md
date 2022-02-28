@@ -10,7 +10,7 @@ MIMICS-Duo contains three different labels as below:
 + **Overall quality of clarification pane-Quality Labelling** Overall quality labels for clarification panes in addition to quality labels for individual candidate answers. (Task 2) 
 + **Specific quality measures of clarification panes-Aspect Labelling** Characteristics labels including coverage, diversity, understandability and candidate answer order for every clarification pane. (Task 3)
 
-The format of each survey is also available for review.
+The format of each task created and conducted on Qualtrics is also available for review.
 
 ## Data Format
 The dataset is released in four tab-separated file format (TSV), with the header in the first row of each file. The column descriptions are given below. 
