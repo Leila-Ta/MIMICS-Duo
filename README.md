@@ -3,7 +3,7 @@ Asking clarification questions is an active area of research; however, resources
 MIMICS-Duo was designed to work with the existing MIMICS-ClickExplore dataset and contains 306 unique queries with multiple clarification panes (1,034 query-clarification pairs) with interactions of real users, collected from the Bing search logs and graded quality labels including multiple clarification panes rating, overall quality labelling for clarification panes and their individual candidate answers and labels for different aspects of clarification panes.
 MIMICS-Duo can be used for training and evaluating many search clarification tasks: generating clarification questions; ranking clarification panes (Figure 1); re-ranking candidate answers; unbiased click models and user engagement prediction for clarification; and, analysing user interaction with search clarification.
 
-![Clarification panme Example](./Data/Picture1.png)
+![Clarification panme Example](./Picture1.png)
 
 MIMICS-Duo contains three different labels as below:
 + **Clarification panes preferences-Offline Rating** Rating labels for all clarification panes generated for a given query. (Task 1)
