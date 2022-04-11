@@ -59,3 +59,15 @@ The dataset is released in four tab-separated file format (TSV), with the header
 
 ### The Bing API's Search Results for MIMICS-Due Queries
 Since the query and clarification panes were extracted from MIMICS-ClickExplore, the web search result page (SERP) information, can be downloaded from [here](http://ciir.cs.umass.edu/downloads/mimics-serp/MIMICS-BingAPI-results.zip). Each line in the file can be loaded as a JSON object and contain all information returned by the Bing's Web Search API.
+
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][CC BY-NC].
+
+[![CC BY-NC 4.0][cc-by-image]][CC BY-NC]
+
+[CC BY-NC]: https://creativecommons.org/licenses/by-nc/4.0/
+[CC BY-NC-image]: https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png
+[CC BY-NC-shield]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg
