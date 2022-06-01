@@ -15,7 +15,7 @@ The format of each task created and conducted on Qualtrics is also available for
 ## Data Format
 The dataset is released in four tab-separated file format (TSV), with the header in the first row of each file. The column descriptions are given below. 
 
-### MIMICS-Due (Offline Rating)
+### MIMICS-Duo (Offline Rating)
 
 | Column(s)                           | Description                                                           |
 |-------------------------------------|-----------------------------------------------------------------------|
@@ -24,7 +24,7 @@ The dataset is released in four tab-separated file format (TSV), with the header
 | option_1, ..., option_5             | (string) Up to five candidate answers.                                |
 | Offline rating                      | (integer) A five-level rating label for the clarification pane.       |
 
-### MIMICS-Due (Quality Labelling)
+### MIMICS-Duo (Quality Labelling)
 
 | Column(s)                           | Description                                                           |
 |-------------------------------------|-----------------------------------------------------------------------|
@@ -34,7 +34,7 @@ The dataset is released in four tab-separated file format (TSV), with the header
 | Quality_Option1, …, Quality_Option5 | (integer) A five-level quality label for the clarification pane.      |
 | OverallClarificationPaneQuality     | (integer) A five-level quality label for the candidate answer.        |
 
-### MIMICS-Due (Aspect Labelling)
+### MIMICS-Duo (Aspect Labelling)
 
 | Column(s)                           | Description                                                           |
 |-------------------------------------|-----------------------------------------------------------------------|
@@ -57,7 +57,7 @@ The dataset is released in four tab-separated file format (TSV), with the header
 | engagement_level                    | (integer) A label in [0, 10] representing total user engagements.     |
 | option_cctr_1, ..., option_cctr_5   | (real) The conditional click probability on each candidate answer.    |
 
-### The Bing API's Search Results for MIMICS-Due Queries
+### The Bing API's Search Results for MIMICS-Duo Queries
 Since the query and clarification panes were extracted from MIMICS-ClickExplore, the web search result page (SERP) information, can be downloaded from [here](http://ciir.cs.umass.edu/downloads/mimics-serp/MIMICS-BingAPI-results.zip). Each line in the file can be loaded as a JSON object and contain all information returned by the Bing's Web Search API.
 
 ## Citation
