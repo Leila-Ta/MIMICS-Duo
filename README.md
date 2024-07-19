@@ -63,10 +63,16 @@ Since the query and clarification panes were extracted from MIMICS-ClickExplore,
 ## Citation
 If you found MIMICS-Duo useful, you can cite the following article:
 ```
-Leila Tavakoli, Johanne R. Trippas, Hamed Zamani, Falk Scholer, and Mark Sanderson. "Online and Offline Evaluation in Search Clarification", 2024, TOIS.
+Leila Tavakoli, Johanne R. Trippas, Hamed Zamani, Falk Scholer, and Mark Sanderson. "MIMICS-Duo: Offline & Online Evaluation of Search Clarification", In Proc. of SIGIR 2022.
 ```
 
 bibtex:
 ```
-
+@inproceedings{mimics-duo,
+  title={MIMICS-Duo: Offline & Online Evaluation of Search Clarification},
+  author={Tavakoli, Leila and Trippas, Johanne R and Zamani, Hamed and Falk, Scholer and Sanderson, Mark},
+  booktitle = {Proceedings of the 45th  International ACM SIGIR Conference on Research and Development in Information Retrieva},
+  series = {SIGIR '22},
+  year={2022},
+}
 ```
